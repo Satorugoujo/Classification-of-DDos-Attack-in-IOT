@@ -1,1 +1,2 @@
-# Classification-of-DDos-Attack-in-IOT
+# ddos_classification
+DDoS Attacks Classification
